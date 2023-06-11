@@ -1,4 +1,4 @@
-# prj_gateway
+# Project Gateway
 
 Meet Gateway, a mobile app that my team and I have created to help care deliverers retrieve and update patient information in the quickest and most painless way possible. We conducted primary research interviews with healthcare workers and found a common pain point - finding what you need is difficult because it's spread across multiple data systems. To address this, we needed a snappy system that could make information gathering a kench. Gateway is the solution. In this video, I'll show you how Gateway works and how it can help you retrieve and update patient information efficiently. Our app includes a directory of patients with robust filtering, in-depth patient profiles, and a log page for an overview of all your patient notes. We believe that our platform, Gateway, is a powerful tool in displaying data and helps deliver care in a digestible and efficient way.
 
@@ -38,6 +38,3 @@ Click on the "Enable Flutter SDK" checkbox.
 Set the Flutter SDK path to the location where you extracted the Flutter SDK in Step 4.
 Click "Apply" and then "OK".
 
-
-# Project_Gateway
-# Project_Gateway
